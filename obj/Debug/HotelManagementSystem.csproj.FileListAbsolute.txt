@@ -1,0 +1,16 @@
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.FormLogin.resources
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.FormHomePage.resources
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Control.UserControlSetting.resources
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Control.UserControlClient.resources
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Control.UserControlRoom.resources
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.User_Control.UserControlReservation.resources
+C:\Users\Resul\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.FormStartScreen.resources
